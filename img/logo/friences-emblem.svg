@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Friences monogram">
+  <circle cx="32" cy="32" r="30" stroke="#C6A46A" stroke-width="1"/>
+  <circle cx="32" cy="32" r="26" stroke="#C6A46A" stroke-width=".5" opacity=".55"/>
+  <path d="M32 12.5l2 4.2-2 4.1-2-4.1 2-4.2z" fill="#C6A46A"/>
+  <path d="M24.5 45V23.5H38" stroke="#C6A46A" stroke-width="1.5"/>
+  <path d="M24.5 34h10.5" stroke="#C6A46A" stroke-width="1.5"/>
+  <circle cx="27" cy="49" r=".9" fill="#C6A46A" opacity=".7"/>
+  <circle cx="32" cy="49" r=".9" fill="#C6A46A" opacity=".7"/>
+  <circle cx="37" cy="49" r=".9" fill="#C6A46A" opacity=".7"/>
+</svg>
